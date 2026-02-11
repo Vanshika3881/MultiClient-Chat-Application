@@ -20,4 +20,14 @@ g++ server.cpp -o server -pthread
 g++ client.cpp -o client -pthread
 
 
+## How to run
+Start Server
+./server
 
+Start Client
+./client
+
+
+Enter server IP (example):
+
+127.0.0.1
